@@ -1,0 +1,22 @@
+{
+  "wheel_id": 530,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-108",
+  "project": "retaining-wall-construction-newcastle-glossary-4ce110074f7aec64",
+  "parent_t1_ref": "retainingwallnewcastle-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining wall construction newcastle glossary",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-construction-newcastle-glossary-4ce110074f7aec64/",
+  "tier": "T2",
+  "writeback_nonce": "8f3c09884764009b",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallnewcastle-153/",
+      "anchor": "the retaining wall construction newcastle overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
